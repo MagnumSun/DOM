@@ -5,7 +5,7 @@
 
 .pyramid-gyro {
   position: absolute;
-  top: 600px;
+  top: 400px;
   left: 48.5%;
   margin-left: -100px;
 	-webkit-perspective: 1000px;
@@ -65,7 +65,7 @@
 
 .fyi {
   position: absolute;
-  top: 25px;
+  top: 50px;
   right: 25px;
   width: 250px;
   color: #fff;
