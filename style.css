@@ -5,7 +5,7 @@
 
 .pyramid-gyro {
   position: absolute;
-  top: 350px;
+  top: 300px;
   left: 48.5%;
   margin-left: -100px;
 	-webkit-perspective: 1000px;
